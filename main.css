@@ -1,0 +1,35 @@
+caja{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 200px;
+}
+body{
+  background:url(imagenes/orig_568545.jpg);
+  background-repeat: no-repeat;background-attachment: fixed;
+  color: #ffffff;
+}
+div{
+background: #2f56a5;
+color: #ffffff
+}
+p{
+  width: 500px;
+  height: 500px;
+  font-family: Arial;
+  font-size: 18px;
+  }
+img{
+  position: relative;
+  left:55%;
+  bottom: 470px;
+  }
+a{
+  color: #ffffff
+  }
+  h3{
+    font-size: 25px;
+  background: #2f56a5;
+  color: #ffffff
+  }
